@@ -19,7 +19,8 @@ Consiste em uma API REST desenvolvida com o framework Nest.js, ORM Typeorm e ban
 
 ## Observações
 
-- Neste projeto tive meu primeiro contato com o framework Nest.js, com o ORM Typeorm, com ferramenta de documentação Swagger e também com Docker, apesar de já conhecer conceitualmente todos estes itens citados.
-- Tenho aproximadamente 2 meses de experiência com TypeScript, pois utilize a linguagem na foormação de Vue.js que fiz.
-- Todos meus projetos de backend anteriores utilize Express.js, ORMs Sequelize e Knex, linguagem JavaScript e banco de dados Postgres e MySql. 
+- Neste projeto tive meu primeiro contato com o framework Nest.js, com o ORM Typeorm, com a ferramenta de documentação Swagger e também com Docker, apesar de já conhecer conceitualmente todos os itens citados.
+- Tenho aproximadamente 2 meses de experiência com TypeScript, pois utilizei a linguagem na formação Vue.js 3 que fiz.
+- Possuo mais de 2 anos de experiência com Node.js.
+- Todos os meus projetos de backend anteriores utilizei Express.js, ORMs Sequelize e Knex, linguagem JavaScript e banco de dados Postgres e MySql. 
 
