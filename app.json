@@ -1,7 +1,7 @@
 {
   "name": "nestjs-typeorm-postgres-api",
   "description": "Consiste em uma API REST que utiliza o framework Nest.js, ORM Typeorm e banco de dados Postgres..",
-  "website": "https://tooljet.io/",
+  "website": "https://davidoliveirajs-api-movies.herokuapp.com",
   "repository": "https://github.com/davidoliveira-js/nestjs-typeorm-postgres-api",
   "success_url": "/",
   "scripts":{
