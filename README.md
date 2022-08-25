@@ -1,7 +1,7 @@
 # API-movies
 
 ## Descrição
-Consiste em uma API REST que desenvolvida com o framework Nest.js, ORM Typeorm e banco de dados Postgres.
+Consiste em uma API REST desenvolvida com o framework Nest.js, ORM Typeorm e banco de dados Postgres.
 
 ## Implementações até o momento
 
